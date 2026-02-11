@@ -123,20 +123,6 @@ documentation.
 
 ------------------------------------------------------------------------
 
-## 🛠 Tech Stack
-
-  Layer                Technology
-  -------------------- -------------------------------
-  Backend              Flask
-  Vector Database      ChromaDB
-  Embeddings           OpenAI text-embedding-3-large
-  LLM                  OpenAI GPT-5.2
-  Vision               GPT-5.2 Vision
-  Document Parsing     python-docx
-  Image Processing     Pillow
-  Environment Config   python-dotenv
-
-------------------------------------------------------------------------
 
 ## ⚙ Installation
 
