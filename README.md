@@ -4,7 +4,6 @@
 ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5.2-green)
 ![ChromaDB](https://img.shields.io/badge/Vector%20DB-ChromaDB-purple)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 An enterprise-ready **Retrieval-Augmented Generation (RAG)** system
 built with Flask that processes LMS technical manuals (.DOCX), indexes
